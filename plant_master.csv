@@ -1,0 +1,201 @@
+plant_id,plant_name,country,plant_type,capacity_mw,installation_year,operator_company
+1,Nova Plant 1,Canada,Wind,688,2002,"Ross, Welch and Kemp"
+2,Nova Plant 2,China,Hydro,204,2022,Allen LLC
+3,Eco Plant 3,France,Hydro,539,2016,"Gibson, Burns and Payne"
+4,Green Plant 4,Brazil,Battery Storage,435,2007,Wilson Ltd
+5,Green Plant 5,Canada,Battery Storage,834,2009,Barton-Mann
+6,Green Plant 6,Spain,Solar,153,2001,Snyder Group
+7,Nova Plant 7,Germany,Solar,978,2018,Davis and Sons
+8,Volt Plant 8,Canada,Battery Storage,442,2008,"Wright, Ellis and Doyle"
+9,Nova Plant 9,France,Hydro,860,2006,Warren Group
+10,Volt Plant 10,Brazil,Wind,295,2003,Patterson-Carter
+11,Solaris Plant 11,China,Battery Storage,225,2020,Cruz-Arnold
+12,Nova Plant 12,France,Solar,88,2017,Joseph-Patterson
+13,Nova Plant 13,France,Hydro,526,2012,Martin-Henry
+14,Nova Plant 14,Germany,Battery Storage,731,2010,"Brooks, Powell and Gomez"
+15,Green Plant 15,Australia,Battery Storage,808,2023,Lee-Fox
+16,Green Plant 16,Brazil,Hydro,587,2003,Watson-King
+17,Volt Plant 17,USA,Battery Storage,916,2024,Watson-Herrera
+18,Volt Plant 18,France,Hydro,867,2020,Morgan-Anderson
+19,Nova Plant 19,Australia,Wind,970,2024,"Johnson, Lambert and Ross"
+20,Volt Plant 20,USA,Hydro,457,2003,Stevens-Hopkins
+21,Green Plant 21,Brazil,Hydro,574,2009,Martinez LLC
+22,Volt Plant 22,India,Hydro,877,2004,Bell-Cantrell
+23,Solaris Plant 23,Spain,Battery Storage,555,2008,Paul Ltd
+24,Green Plant 24,Australia,Battery Storage,952,2023,Pope and Sons
+25,Solaris Plant 25,Japan,Hydro,874,2002,Gibbs and Sons
+26,Volt Plant 26,India,Battery Storage,85,2016,Smith-Snyder
+27,Eco Plant 27,Spain,Solar,734,2002,Bullock Group
+28,Nova Plant 28,Germany,Solar,69,2015,Fox-Andrews
+29,Green Plant 29,Canada,Battery Storage,370,2003,"May, Reynolds and Hebert"
+30,Solaris Plant 30,China,Battery Storage,825,2017,Holmes-Jones
+31,Eco Plant 31,Japan,Hydro,561,2016,Fletcher-Jones
+32,Eco Plant 32,Germany,Wind,449,2006,"Lindsey, Ortiz and Atkins"
+33,Green Plant 33,Brazil,Battery Storage,703,2023,Turner Ltd
+34,Green Plant 34,Germany,Solar,932,2022,House and Sons
+35,Eco Plant 35,Canada,Hydro,520,2004,Bruce Group
+36,Nova Plant 36,Brazil,Battery Storage,192,2011,"Carter, Blankenship and Elliott"
+37,Nova Plant 37,Japan,Solar,141,2016,Brock Ltd
+38,Solaris Plant 38,Canada,Solar,403,2022,Lane LLC
+39,Nova Plant 39,USA,Wind,883,2012,Petersen Group
+40,Eco Plant 40,China,Hydro,849,2022,Anderson-Lucas
+41,Eco Plant 41,Japan,Hydro,776,2024,Myers-Decker
+42,Volt Plant 42,USA,Wind,903,2002,Walker PLC
+43,Eco Plant 43,Spain,Wind,100,2008,Perry-Larsen
+44,Nova Plant 44,Japan,Hydro,714,2016,"Hill, Shannon and Ward"
+45,Solaris Plant 45,Spain,Hydro,747,2016,Hogan Ltd
+46,Volt Plant 46,Brazil,Battery Storage,624,2019,"Garcia, Holt and Martin"
+47,Nova Plant 47,USA,Battery Storage,239,2015,Rivera-Dickson
+48,Solaris Plant 48,China,Wind,174,2024,Key and Sons
+49,Nova Plant 49,Canada,Battery Storage,199,2021,Hernandez-Roberts
+50,Volt Plant 50,France,Solar,363,2012,Bailey-Le
+51,Eco Plant 51,Germany,Battery Storage,619,2018,Oneill-Chavez
+52,Volt Plant 52,India,Battery Storage,391,2016,Jackson Inc
+53,Eco Plant 53,China,Solar,354,2003,"Rodriguez, Martin and West"
+54,Volt Plant 54,USA,Wind,741,2011,Reynolds Inc
+55,Green Plant 55,France,Solar,731,2008,Romero-Miller
+56,Nova Plant 56,China,Battery Storage,887,2018,"Bailey, Riley and Williams"
+57,Nova Plant 57,USA,Wind,832,2011,Jones LLC
+58,Green Plant 58,Australia,Battery Storage,103,2008,Campos-Mcguire
+59,Eco Plant 59,Australia,Solar,493,2006,Deleon Group
+60,Nova Plant 60,Spain,Solar,662,2013,"Grant, Santos and Ellis"
+61,Green Plant 61,China,Battery Storage,313,2019,Jones-Ramirez
+62,Nova Plant 62,Australia,Hydro,102,2018,Jones PLC
+63,Solaris Plant 63,USA,Hydro,621,2014,Robbins LLC
+64,Eco Plant 64,Spain,Solar,669,2015,"Barber, Hernandez and Burns"
+65,Solaris Plant 65,USA,Solar,54,2020,Moore Group
+66,Eco Plant 66,Spain,Hydro,152,2004,Nguyen-Montoya
+67,Green Plant 67,China,Hydro,245,2002,Hutchinson Ltd
+68,Eco Plant 68,France,Battery Storage,823,2011,Ramsey-Villarreal
+69,Eco Plant 69,Canada,Battery Storage,926,2024,"Park, Evans and Johnston"
+70,Green Plant 70,Japan,Hydro,933,2019,"Adams, Shepard and Little"
+71,Eco Plant 71,France,Battery Storage,399,2020,Miller Ltd
+72,Nova Plant 72,Brazil,Battery Storage,96,2003,Guerra-Murphy
+73,Volt Plant 73,USA,Wind,916,2020,Clark and Sons
+74,Green Plant 74,Brazil,Battery Storage,872,2022,Lutz-Anderson
+75,Volt Plant 75,France,Solar,985,2015,"Williams, Green and Harrison"
+76,Green Plant 76,Spain,Battery Storage,869,2024,Martinez-Hall
+77,Green Plant 77,Japan,Battery Storage,705,2006,Burton-Kelley
+78,Solaris Plant 78,Japan,Hydro,318,2012,"Yates, Gordon and Green"
+79,Solaris Plant 79,India,Solar,419,2020,Turner-Travis
+80,Eco Plant 80,Japan,Battery Storage,685,2009,Blake Ltd
+81,Volt Plant 81,Canada,Battery Storage,155,2006,"Moore, Harrison and Campbell"
+82,Green Plant 82,Japan,Wind,719,2013,Rice-Lee
+83,Eco Plant 83,France,Battery Storage,708,2004,Strickland Ltd
+84,Nova Plant 84,India,Battery Storage,706,2002,Wood-Patterson
+85,Green Plant 85,France,Wind,169,2022,Barron-Ruiz
+86,Nova Plant 86,France,Hydro,880,2010,"Arias, Woodard and Carey"
+87,Eco Plant 87,Germany,Battery Storage,836,2010,Mcdaniel-Sawyer
+88,Solaris Plant 88,India,Wind,653,2017,"Mcdaniel, Hill and Vasquez"
+89,Eco Plant 89,France,Solar,107,2014,"Gordon, West and Hill"
+90,Nova Plant 90,Germany,Hydro,395,2011,Lane-Forbes
+91,Green Plant 91,Germany,Solar,790,2008,"Stone, Barnett and Cox"
+92,Volt Plant 92,India,Solar,523,2009,Cook-Williams
+93,Eco Plant 93,Brazil,Wind,166,2011,Figueroa-Carter
+94,Green Plant 94,Spain,Battery Storage,879,2016,"Smith, Short and Anderson"
+95,Solaris Plant 95,Canada,Wind,840,2005,Richard and Sons
+96,Solaris Plant 96,Spain,Wind,176,2006,Evans Inc
+97,Solaris Plant 97,Japan,Wind,442,2013,"Hart, May and French"
+98,Green Plant 98,Canada,Wind,957,2012,Graham-Olson
+99,Eco Plant 99,Japan,Hydro,690,2007,Clark-Vasquez
+100,Green Plant 100,France,Battery Storage,107,2009,Gray Ltd
+101,Green Plant 101,USA,Solar,683,2008,Roberts LLC
+102,Volt Plant 102,India,Solar,562,2017,Gentry Ltd
+103,Volt Plant 103,Canada,Battery Storage,800,2001,Cole LLC
+104,Eco Plant 104,Canada,Solar,851,2004,"Adams, Carr and Werner"
+105,Volt Plant 105,France,Battery Storage,145,2004,"West, Vargas and Gardner"
+106,Solaris Plant 106,Brazil,Solar,687,2005,Rice LLC
+107,Volt Plant 107,Germany,Wind,167,2018,"Poole, Valenzuela and Davis"
+108,Solaris Plant 108,France,Solar,609,2007,Smith-Haynes
+109,Eco Plant 109,Australia,Battery Storage,650,2015,Melton-White
+110,Green Plant 110,Germany,Battery Storage,537,2012,Edwards-Long
+111,Green Plant 111,India,Battery Storage,286,2000,"Lutz, Lewis and Davis"
+112,Volt Plant 112,Germany,Battery Storage,934,2021,Gomez-Lyons
+113,Solaris Plant 113,Brazil,Battery Storage,946,2019,Rodriguez-Vargas
+114,Nova Plant 114,Germany,Hydro,321,2016,Anderson Ltd
+115,Nova Plant 115,India,Hydro,238,2006,Clark-Chen
+116,Nova Plant 116,Brazil,Solar,753,2024,Olsen-Rice
+117,Green Plant 117,Spain,Battery Storage,496,2012,"Carroll, Hernandez and Howard"
+118,Green Plant 118,Canada,Solar,630,2003,Hurley-Bowman
+119,Solaris Plant 119,Canada,Battery Storage,839,2003,Barnes LLC
+120,Volt Plant 120,Japan,Battery Storage,910,2005,Mason-Golden
+121,Nova Plant 121,Spain,Hydro,296,2018,Calderon LLC
+122,Solaris Plant 122,Spain,Hydro,125,2011,"Rodriguez, Jones and Lopez"
+123,Solaris Plant 123,Germany,Wind,203,2021,Waters Inc
+124,Volt Plant 124,Canada,Hydro,705,2006,"Jones, Barnes and Gutierrez"
+125,Solaris Plant 125,India,Wind,484,2009,Morgan Inc
+126,Volt Plant 126,China,Wind,135,2018,Williamson-Tucker
+127,Eco Plant 127,China,Wind,746,2006,"Ayala, Garcia and Moreno"
+128,Volt Plant 128,Brazil,Wind,334,2002,Frazier-Rodriguez
+129,Nova Plant 129,Canada,Wind,269,2012,Webb-Trevino
+130,Nova Plant 130,Canada,Solar,118,2012,"Smith, Andrade and Malone"
+131,Volt Plant 131,China,Hydro,96,2017,Alexander-Burns
+132,Eco Plant 132,Canada,Wind,143,2019,Hernandez-Watkins
+133,Eco Plant 133,Germany,Battery Storage,799,2007,"Alvarez, Lopez and Schmidt"
+134,Nova Plant 134,Australia,Hydro,502,2008,"Adams, Garcia and Martin"
+135,Eco Plant 135,USA,Hydro,253,2006,"Smith, Knight and Mahoney"
+136,Solaris Plant 136,Spain,Wind,961,2000,Mitchell PLC
+137,Green Plant 137,Japan,Solar,267,2002,Reid PLC
+138,Solaris Plant 138,Brazil,Wind,523,2012,Moore-Larsen
+139,Nova Plant 139,Australia,Solar,481,2024,"Hill, Marshall and Rios"
+140,Eco Plant 140,China,Battery Storage,390,2016,Ramirez-Gardner
+141,Volt Plant 141,Spain,Hydro,600,2024,Barnes-Phillips
+142,Green Plant 142,Canada,Battery Storage,661,2023,"Bender, Chan and Davis"
+143,Volt Plant 143,Japan,Solar,338,2000,Wise-Gordon
+144,Nova Plant 144,Canada,Solar,303,2005,Baker Inc
+145,Eco Plant 145,India,Battery Storage,783,2020,Choi-Ramirez
+146,Volt Plant 146,India,Solar,406,2005,Campbell-Cantu
+147,Volt Plant 147,Japan,Battery Storage,72,2011,"Carter, Kane and Barnes"
+148,Green Plant 148,Japan,Hydro,811,2012,"Mullen, May and Ross"
+149,Green Plant 149,China,Battery Storage,571,2012,Casey and Sons
+150,Eco Plant 150,Japan,Hydro,807,2014,"Stone, Oliver and Mcclain"
+151,Green Plant 151,Germany,Battery Storage,886,2020,"Sparks, Allen and Campbell"
+152,Volt Plant 152,Canada,Solar,149,2015,Martin-Woods
+153,Volt Plant 153,Australia,Battery Storage,851,2021,Johnson PLC
+154,Nova Plant 154,France,Solar,229,2020,Wilson-Gray
+155,Volt Plant 155,Japan,Battery Storage,272,2010,Jenkins Ltd
+156,Eco Plant 156,Brazil,Battery Storage,955,2004,Barnes Group
+157,Solaris Plant 157,India,Wind,811,2003,"Allen, Carter and Burnett"
+158,Nova Plant 158,Germany,Solar,708,2002,Johnson PLC
+159,Nova Plant 159,Spain,Wind,491,2018,"Baldwin, Vang and Green"
+160,Eco Plant 160,France,Solar,657,2019,"Mann, Shaw and Martinez"
+161,Eco Plant 161,Australia,Wind,818,2024,Myers Inc
+162,Green Plant 162,France,Hydro,374,2017,Patton and Sons
+163,Nova Plant 163,Japan,Battery Storage,565,2014,Perez-Mendez
+164,Green Plant 164,China,Solar,65,2008,Clark Ltd
+165,Volt Plant 165,India,Solar,841,2016,Baker and Sons
+166,Nova Plant 166,India,Battery Storage,385,2013,Ford and Sons
+167,Nova Plant 167,Spain,Solar,808,2014,Villa Ltd
+168,Solaris Plant 168,China,Solar,307,2000,Parks Group
+169,Nova Plant 169,Canada,Wind,546,2020,"Neal, Bishop and Campbell"
+170,Volt Plant 170,USA,Solar,945,2021,Manning-Casey
+171,Green Plant 171,Germany,Hydro,209,2021,Roberson and Sons
+172,Green Plant 172,India,Hydro,524,2002,Palmer-Morales
+173,Solaris Plant 173,Brazil,Battery Storage,901,2015,Rodriguez Group
+174,Volt Plant 174,India,Solar,713,2022,"Anderson, Hall and Banks"
+175,Green Plant 175,France,Battery Storage,957,2024,"Giles, Franco and Anderson"
+176,Eco Plant 176,India,Hydro,739,2010,Vargas LLC
+177,Volt Plant 177,India,Solar,724,2011,Bradford PLC
+178,Volt Plant 178,USA,Solar,429,2009,"Fields, Flores and Bowman"
+179,Solaris Plant 179,USA,Battery Storage,594,2015,Wright-Ware
+180,Green Plant 180,Australia,Hydro,978,2007,"Bryan, Mathis and Martin"
+181,Volt Plant 181,Canada,Solar,740,2005,Chan Group
+182,Green Plant 182,Brazil,Battery Storage,476,2011,"Johnson, Pruitt and Black"
+183,Eco Plant 183,India,Hydro,662,2023,Tucker PLC
+184,Solaris Plant 184,India,Battery Storage,317,2020,Flores Group
+185,Eco Plant 185,Germany,Wind,884,2007,White PLC
+186,Solaris Plant 186,USA,Solar,626,2003,Atkinson-Henderson
+187,Volt Plant 187,Brazil,Wind,466,2007,"Smith, Vincent and Flowers"
+188,Solaris Plant 188,Spain,Hydro,217,2017,Johnson PLC
+189,Nova Plant 189,Australia,Wind,891,2004,Hartman LLC
+190,Green Plant 190,Canada,Wind,92,2008,Stephens Group
+191,Green Plant 191,China,Hydro,605,2003,Jackson-Macias
+192,Nova Plant 192,Canada,Battery Storage,334,2021,Blanchard and Sons
+193,Eco Plant 193,France,Wind,446,2016,Hernandez-Adams
+194,Nova Plant 194,India,Battery Storage,61,2008,"Robertson, Nelson and Sawyer"
+195,Volt Plant 195,Australia,Wind,656,2000,Cisneros Group
+196,Volt Plant 196,France,Battery Storage,351,2020,Cowan-Johnson
+197,Green Plant 197,Brazil,Hydro,947,2019,"Hansen, Taylor and Navarro"
+198,Volt Plant 198,China,Wind,302,2012,Reid-Hunter
+199,Green Plant 199,USA,Hydro,548,2015,"Scott, Lowery and Williams"
+200,Nova Plant 200,Australia,Wind,803,2012,Floyd and Sons
